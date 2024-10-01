@@ -1,0 +1,113 @@
+
+.burger{
+    background-image: url('images/hamburger.jpg');
+    height:750px;
+    width:1600px;
+    z-index: 0;
+}
+.text{
+    color:rgba(0, 0, 0, 0.479);
+    margin-left: 10px;
+}
+.food{
+    margin-left:250px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.food img{
+    height:70vh;
+}
+.par{
+    margin-left: 200px;
+}
+body{
+    font-family: "Times New Roman", Georgia, Serif;
+}
+.navbar{
+    z-index: 3;
+}
+.navbar ul li a:hover{
+    background-color: rgba(105, 105, 105, 0.3);
+}
+.navbar .brand{
+    padding:5px;
+}
+.navbar .brand:hover{
+    background-color: rgba(105, 105, 105, 0.3);
+}
+.catring{
+    margin-left: 50px;
+}
+.catring .span{
+    background-color: rgba(105, 105, 105, 0.3);
+    padding:5px;
+}
+.catring2{
+    margin-left: 50px;
+    color: rgba(105, 105, 105, 0.9);
+}
+.t1889{
+    margin-left: 180px;
+}
+.le-catring{
+    margin-top: 50px;
+}
+.food2 img{
+    margin-left: 550px;
+    margin-bottom: 500px;
+}
+.food2{
+    margin-left: 350px;
+    width:55vh;
+}
+.img{
+    height: 91vh;
+    margin-left: 50px;
+}
+.Menu{
+    margin-left: 150px;
+}
+.contact{
+    margin-left: 340px ;
+}
+.service{
+    color: #607d8b !important;
+}
+.input{
+    width:950px;
+    height: 70px;
+    display: block;
+    margin-bottom: 15px;
+    border-top:  black;
+    border-left: black ;
+    border-right: black;
+}
+.button{
+    border: none;
+    padding:5px;
+}
+.footer{
+    background-color: #f1f1f1 !important;
+    height:120px;
+}
+.flink{
+    margin-left: 5px;
+    color: black;
+}
+.flink:hover{
+    color:cadetblue;
+}
+.fdiv{
+    margin-left:800px ;
+}
+.hr1{
+    width:1090px ;
+    margin-left:250px ;
+}
+.hr2{
+    width:910px ;
+    margin-left:350px ;
+}
+h6{
+    margin-top: 55px;
+}
